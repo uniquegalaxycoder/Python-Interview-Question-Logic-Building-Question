@@ -1,6 +1,7 @@
-# Check whether the given number is an Armstrong number.
+"""
+  Q.Check whether the given number is an Armstrong number.
  Note : An Amrstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
-
+"""
 main_num = 153
 
 temp_num = main_num
